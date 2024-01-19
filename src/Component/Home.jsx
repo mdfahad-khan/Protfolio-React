@@ -8,8 +8,8 @@ const home = () => {
     <div
       name="home"
       className=" h-screen w-full bg-gradient-to-b from-black via-black to-gray-800 text-white">
-      <div className="  mx-auto max-w-screen-xl flex flex-col items-center justify-center h-full px-4 md:flex-row ">
-        <div className="flex flex-col justify-center h-full w-[1000px] mt-10 ml-[500px] md:ml-0">
+      <div className="ml-4  mx-auto max-w-screen-xl flex flex-col items-center justify-center h-full px-4 md:flex-row ">
+        <div className="flex flex-col justify-center h-full w-[1000px] mt-10 ml-6 md:ml-0">
           <h2 className="text-3xl sm:text-4xl font-bold text-white mt-20 ml-20">
             Hello, My name is <br />{" "}
             <span className="text-[crimson] text-5xl mt-2">
